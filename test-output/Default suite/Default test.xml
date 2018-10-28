@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="RichG" name="RestAssured.Basics.BasicGetTest" tests="1" failures="0" timestamp="21 Oct 2018 11:08:49 GMT" time="5.355" errors="0">
+  <testcase name="testCases" time="5.263" classname="RestAssured.Basics.BasicGetTest"/>
+</testsuite>
